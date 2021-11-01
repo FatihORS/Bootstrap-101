@@ -1,2 +1,6 @@
 # Bootstrap-101
- Begining of bootstrap
+ ## Bootstrap begining level
+ ---
+ *General Holder (Container) 
+ *Row Blocks (Row) 
+ *Column (Col) Structure
